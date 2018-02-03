@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://brianleelxt.top/"/>
   <updated>2018-02-03T13:31:47.460Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://brianleelxt.top/</id>
   
   <author>
     <name>Brian Lee</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>myfirstblog</title>
-    <link href="http://yoursite.com/2018/02/03/myfirstblog/"/>
-    <id>http://yoursite.com/2018/02/03/myfirstblog/</id>
+    <link href="http://brianleelxt.top/2018/02/03/myfirstblog/"/>
+    <id>http://brianleelxt.top/2018/02/03/myfirstblog/</id>
     <published>2018-02-03T07:23:26.000Z</published>
     <updated>2018-02-03T13:31:47.460Z</updated>
     
@@ -35,43 +35,43 @@
     
     </summary>
     
-      <category term="spider" scheme="http://yoursite.com/categories/spider/"/>
+      <category term="spider" scheme="http://brianleelxt.top/categories/spider/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://brianleelxt.top/tags/test/"/>
     
-      <category term="spider" scheme="http://yoursite.com/tags/spider/"/>
+      <category term="spider" scheme="http://brianleelxt.top/tags/spider/"/>
     
-      <category term="a" scheme="http://yoursite.com/tags/a/"/>
+      <category term="a" scheme="http://brianleelxt.top/tags/a/"/>
     
-      <category term="b" scheme="http://yoursite.com/tags/b/"/>
+      <category term="b" scheme="http://brianleelxt.top/tags/b/"/>
     
-      <category term="ac" scheme="http://yoursite.com/tags/ac/"/>
+      <category term="ac" scheme="http://brianleelxt.top/tags/ac/"/>
     
-      <category term="e" scheme="http://yoursite.com/tags/e/"/>
+      <category term="e" scheme="http://brianleelxt.top/tags/e/"/>
     
-      <category term="t" scheme="http://yoursite.com/tags/t/"/>
+      <category term="t" scheme="http://brianleelxt.top/tags/t/"/>
     
-      <category term="y" scheme="http://yoursite.com/tags/y/"/>
+      <category term="y" scheme="http://brianleelxt.top/tags/y/"/>
     
-      <category term="u" scheme="http://yoursite.com/tags/u/"/>
+      <category term="u" scheme="http://brianleelxt.top/tags/u/"/>
     
-      <category term="i" scheme="http://yoursite.com/tags/i/"/>
+      <category term="i" scheme="http://brianleelxt.top/tags/i/"/>
     
-      <category term="o" scheme="http://yoursite.com/tags/o/"/>
+      <category term="o" scheme="http://brianleelxt.top/tags/o/"/>
     
-      <category term="yp" scheme="http://yoursite.com/tags/yp/"/>
+      <category term="yp" scheme="http://brianleelxt.top/tags/yp/"/>
     
-      <category term="lk" scheme="http://yoursite.com/tags/lk/"/>
+      <category term="lk" scheme="http://brianleelxt.top/tags/lk/"/>
     
-      <category term="nm" scheme="http://yoursite.com/tags/nm/"/>
+      <category term="nm" scheme="http://brianleelxt.top/tags/nm/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/02/02/hello-world/"/>
-    <id>http://yoursite.com/2018/02/02/hello-world/</id>
+    <link href="http://brianleelxt.top/2018/02/02/hello-world/"/>
+    <id>http://brianleelxt.top/2018/02/02/hello-world/</id>
     <published>2018-02-01T16:00:31.172Z</published>
     <updated>2018-02-01T16:00:31.172Z</updated>
     
