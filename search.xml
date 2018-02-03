@@ -74,9 +74,10 @@
   
     
     <entry>
-      <title><![CDATA[timeline]]></title>
-      <url>/timeline/index.html</url>
-      <content type="html"></content>
+      <title><![CDATA[resume]]></title>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<p>还没内容O(∩_∩)O哈哈~</p>
+]]></content>
     </entry>
     
     <entry>
@@ -86,10 +87,9 @@
     </entry>
     
     <entry>
-      <title><![CDATA[resume]]></title>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[<p>还没内容O(∩_∩)O哈哈~</p>
-]]></content>
+      <title><![CDATA[timeline]]></title>
+      <url>/timeline/index.html</url>
+      <content type="html"></content>
     </entry>
     
   
