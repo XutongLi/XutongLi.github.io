@@ -74,16 +74,16 @@
   
     
     <entry>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[resume]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>还没内容O(∩_∩)O哈哈~</p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
-      <content type="html"></content>
     </entry>
     
     <entry>
