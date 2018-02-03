@@ -645,8 +645,8 @@ a {
 }
 #scheme-Paradox .material-layout .something-else .something-else-logo img {
     margin-bottom: 10px;
-    width: 10pc;
-    height: 10pc
+    width: 12pc;
+    height: 12pc
 }
 #scheme-Paradox .material-layout .something-else .mdl-card__supporting-text {
     border-bottom-right-radius: 2px;
@@ -2069,12 +2069,12 @@ a {
     background-color: transparent
 }
 .sidebar-colored .sidebar-brand {
-    color: #e0e0e0;
+    color: #e7e7e7;
     background-color: transparent
 }
 .sidebar-colored .sidebar-brand:focus,
 .sidebar-colored .sidebar-brand:hover {
-    color: #f5f5f5;
+    color: #ffffff;
     background-color: rgba(0, 0, 0, .1)
 }
 .sidebar-colored .sidebar-badge,
