@@ -1,15 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T06:33:07.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hL7KpW7Z8OJJ_wgR-tkq" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:16:21.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jf13OQML8xeWouYx_HGs" version="22.1.17" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1962" dy="858" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ScYiuWW9rd-s-aiOjCzt-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Center&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-7" y="94" width="180" height="90" as="geometry" />
+          <mxGeometry x="-108" y="87" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ScYiuWW9rd-s-aiOjCzt-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ScYiuWW9rd-s-aiOjCzt-3">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScYiuWW9rd-s-aiOjCzt-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PartitionServer&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-348" y="87" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ScYiuWW9rd-s-aiOjCzt-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ScYiuWW9rd-s-aiOjCzt-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScYiuWW9rd-s-aiOjCzt-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ScYiuWW9rd-s-aiOjCzt-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271" y="211" as="sourcePoint" />
+            <mxPoint x="-107" y="132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
